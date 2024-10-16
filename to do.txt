@@ -1,0 +1,7 @@
+1.Project structure
+2.Project package    
+Route Config
+App.js Config
+Postman initial Config
+Email Credential Config
+Write Model Properties
